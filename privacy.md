@@ -60,7 +60,7 @@ Support, messages and payment requests may be handled by staff the operator trus
 - Server credit and event records may be kept until the server or you ask for deletion.
 
 ## 7. Your choices and deletion
-You can ask to see or delete your data at any time. Use /report in Discord or open the support server: https://discord.gg/cJq2mGd8PY. Payment records may be kept where needed for accounting or fraud prevention.
+You can ask to see or delete your data at any time. Use /report in Discord or open the support server: https://discord.gg/8XPHezcAMk. Payment records may be kept where needed for accounting or fraud prevention.
 
 ## 8. Children
 WD Core is not for children under 13 (or the minimum age required by Discord in your country). If you believe a child has used the bot, contact us to remove the data.
@@ -69,4 +69,4 @@ WD Core is not for children under 13 (or the minimum age required by Discord in 
 We may update this policy. The date above shows the latest version.
 
 ## 10. Contact
-Use /report in Discord, or join https://discord.gg/cJq2mGd8PY.
+Use /report in Discord, or join https://discord.gg/8XPHezcAMk.

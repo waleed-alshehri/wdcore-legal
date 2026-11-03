@@ -53,4 +53,4 @@ Your use of the bot is also covered by the Privacy Policy.
 We may update these terms. Continued use means you accept the new version.
 
 ## 13. Contact
-Use /report in Discord, or join https://discord.gg/cJq2mGd8PY.
+Use /report in Discord, or join https://discord.gg/8XPHezcAMk.
