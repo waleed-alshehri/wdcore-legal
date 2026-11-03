@@ -1,6 +1,6 @@
 # WD Core Terms of Service
 
-Last updated: November 1, 2026
+Last updated: November 3, 2026
 
 By using WD Core ("the bot"), you agree to these terms. If you do not agree, do not use the bot.
 
@@ -25,6 +25,7 @@ The free plan has daily limits and language limits. Limits may change at any tim
 - After we verify your payment, you receive a code by direct message. Activate it with /redeem before it expires.
 - Codes are for one user and must not be shared.
 - Prices and features may change. A change does not affect periods already paid.
+- Payments are reviewed manually by the operator. A request may be rejected, for example if the payment cannot be verified or the details do not match.
 
 ## 6. Refunds
 Refunds are not available after a code has been used. Before use, contact support. Approved refunds end your Premium access and return your account to the Free plan. Refunds are decided by the operator.
@@ -41,8 +42,15 @@ To the extent allowed by law, WD Core is not liable for losses caused by transla
 ## 10. Privacy
 Your use of the bot is also covered by the Privacy Policy.
 
-## 11. Changes
+## 11. Server credit and giveaways
+- A Premium code can be added to a server's credit with /redeem (server option). The credit is used to run giveaways and events for the members of that server.
+- Credit has no cash value, cannot be withdrawn or transferred, and is not refundable once added.
+- Server administrators are responsible for the giveaways they run, including their rules and prizes. Prizes that are not Premium days are given by the server, not by WD Core.
+- Unused credit from an ended or cancelled event returns to the server's credit.
+- We may limit or stop giveaways, or remove credit, for servers that abuse this feature or break these terms.
+
+## 12. Changes
 We may update these terms. Continued use means you accept the new version.
 
-## 12. Contact
+## 13. Contact
 Use /report in Discord, or join https://discord.gg/cJq2mGd8PY.
