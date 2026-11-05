@@ -1,6 +1,6 @@
 # WD Core Privacy Policy
 
-Last updated: November 3, 2026
+Last updated: November 5, 2026
 
 WD Core ("the bot", "we") is a Discord bot that translates messages. This policy explains what data the bot handles and why.
 
@@ -32,6 +32,12 @@ WD Core ("the bot", "we") is a Discord bot that translates messages. This policy
 **Servers, credit and events**
 - When the bot is in a server, we store the server ID and name, the bot settings chosen by the server's admins (such as channels and roles), and the server's Premium credit.
 - When a server runs a giveaway or event with the bot, we store its settings, the people who join, and the winners. Winners may receive a direct message from the bot.
+- If a server admin sets up extra reaction emojis, we store the channel and the emoji they chose. If they choose a role to be mentioned in a giveaway, we store that role.
+- If a server admin turns on Auto clean, we store the channel and the age they chose.
+
+**Message deletion (Auto clean and channel tools)**
+- When a server admin turns on Auto clean, or uses the channel tools, the bot deletes messages in the channels they choose. Pinned messages are kept.
+- The bot reads these messages only to delete them. It does not store their content.
 
 ## 2. How we use data
 - To translate messages and apply your language settings.
@@ -39,6 +45,7 @@ WD Core ("the bot", "we") is a Discord bot that translates messages. This policy
 - To verify payments, prevent duplicate use of a payment, and handle refunds.
 - To answer reports and support requests.
 - To run server credit, giveaways and events.
+- To run the server features that admins turn on, such as extra reactions and Auto clean.
 - To keep a record of which staff member handled each request.
 - To prevent abuse of the bot.
 

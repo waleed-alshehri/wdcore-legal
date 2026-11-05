@@ -1,6 +1,6 @@
 # WD Core Terms of Service
 
-Last updated: November 3, 2026
+Last updated: November 5, 2026
 
 By using WD Core ("the bot"), you agree to these terms. If you do not agree, do not use the bot.
 
@@ -49,8 +49,13 @@ Your use of the bot is also covered by the Privacy Policy.
 - Unused credit from an ended or cancelled event returns to the server's credit.
 - We may limit or stop giveaways, or remove credit, for servers that abuse this feature or break these terms.
 
-## 12. Changes
+## 12. Server tools and message deletion
+- Server admins can use WD Core to add reactions and, if they turn on Auto clean or the delete tools, to delete messages in the channels they choose.
+- Deleted messages cannot be recovered. Server admins are responsible for the channels they choose and for having the right to delete those messages.
+- WD Core is not liable for messages deleted by a server's settings.
+
+## 13. Changes
 We may update these terms. Continued use means you accept the new version.
 
-## 13. Contact
+## 14. Contact
 Use /report in Discord, or join https://discord.gg/8XPHezcAMk.
