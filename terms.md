@@ -1,6 +1,6 @@
 # WD Core Terms of Service
 
-Last updated: November 5, 2026
+Last updated: November 6, 2026
 
 By using WD Core ("the bot"), you agree to these terms. If you do not agree, do not use the bot.
 
@@ -53,6 +53,8 @@ Your use of the bot is also covered by the Privacy Policy.
 - Server admins can use WD Core to add reactions and, if they turn on Auto clean or the delete tools, to delete messages in the channels they choose.
 - Deleted messages cannot be recovered. Server admins are responsible for the channels they choose and for having the right to delete those messages.
 - WD Core is not liable for messages deleted by a server's settings.
+- Server admins can turn on welcome messages and a welcome leaderboard. Points are for fun only: they have no cash value and may be changed, reset or cancelled (for example when a new member leaves quickly or when abuse is detected).
+- If an admin sets a reward role, WD Core gives it to the top welcomer when a period ends and removes it from the previous holder. Admins are responsible for the role they choose.
 
 ## 13. Changes
 We may update these terms. Continued use means you accept the new version.
