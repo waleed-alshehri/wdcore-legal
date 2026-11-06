@@ -1,6 +1,6 @@
 # WD Core Privacy Policy
 
-Last updated: November 6, 2026
+Last updated: November 7, 2026
 
 WD Core ("the bot", "we") is a Discord bot that translates messages. This policy explains what data the bot handles and why.
 
@@ -22,6 +22,7 @@ WD Core ("the bot", "we") is a Discord bot that translates messages. This policy
 - Reports, language suggestions, support tickets, and conversations you send to the developer, including their text and time.
 - Messages the developer or support staff send you, and which staff member sent or closed them.
 - Server owner tickets, which also include the server name and ID.
+- If you ask to be verified as a server owner in the support server, we check who owns the server. We store your Discord ID, the ID and name of each verified server, how it was verified (automatically or by a reviewer), who reviewed it, and when. If WD Core is not in your server, we also keep the invite link you send in a support ticket.
 
 **Payments**
 - When you buy Premium, we store the transaction ID (if you have one), the name and email you enter, the invoice or receipt number, when you say you paid, the plan, the price, and the request status.
@@ -39,7 +40,7 @@ WD Core ("the bot", "we") is a Discord bot that translates messages. This policy
 - The bot reads the "member joined" system message only to post the welcome. It does not store the content of other messages.
 
 **Message deletion (Auto clean and channel tools)**
-- When a server admin turns on Auto clean, or uses the channel tools, the bot deletes messages in the channels they choose. Pinned messages are kept.
+- When a server admin turns on Auto clean, or uses the channel tools (including deleting only members' messages), the bot deletes messages in the channels they choose. Pinned messages are kept.
 - The bot reads these messages only to delete them. It does not store their content.
 
 ## 2. How we use data
@@ -50,6 +51,7 @@ WD Core ("the bot", "we") is a Discord bot that translates messages. This policy
 - To run server credit, giveaways and events.
 - To run the server features that admins turn on, such as extra reactions, Auto clean, welcome messages and leaderboards.
 - To count welcome points fairly and prevent abuse (for example, points are cancelled if a new member leaves within an hour).
+- To verify server owners and give them a role in the support server.
 - To keep a record of which staff member handled each request.
 - To prevent abuse of the bot.
 
@@ -70,6 +72,7 @@ Support, messages and payment requests may be handled by staff the operator trus
 - Translation library entries and conversations may be kept until you ask for deletion.
 - Server credit and event records may be kept until the server or you ask for deletion.
 - Welcome records are limited to the latest 500 members per server, and leaderboard archives to the latest 52 periods.
+- Server owner verification records are kept while the role is in use, and you can ask us to delete them.
 
 ## 7. Your choices and deletion
 You can ask to see or delete your data at any time. Use /report in Discord or open the support server: https://discord.gg/8XPHezcAMk. Payment records may be kept where needed for accounting or fraud prevention.

@@ -1,6 +1,6 @@
 # WD Core Terms of Service
 
-Last updated: November 6, 2026
+Last updated: November 7, 2026
 
 By using WD Core ("the bot"), you agree to these terms. If you do not agree, do not use the bot.
 
